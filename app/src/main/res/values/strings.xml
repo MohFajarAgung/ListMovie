@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListMovie</string>
+    <string name="error">Terjadi Kesalahan</string>
+    <string name="favorite">Favorite</string>
+    <string name="rating">Rating</string>
+    <string name="title_favorite">Favorite</string>
+</resources>
